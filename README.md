@@ -8,4 +8,6 @@ My leetCode profile: https://leetcode.com/u/youssefabeshir/
 ## Languages Used
 
 - C++
+- Java
 - Python
+
