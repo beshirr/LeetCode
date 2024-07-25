@@ -1,13 +1,11 @@
-# LeetCode Solutions
+# LeetCode
 
-LeetCode is a platform for preparing technical coding interviews. I have created this repository to keep track of my progress, share my solutions with the community, and save the solutions to be able to come back and review them. <br />
-Here, you'll find my solutions to various LeetCode problems, categorized by difficulty and type. <br />
-This repository is a work in progress, and I am continuously adding new solutions as I work through different problems. <br /> <br />
-My leetCode profile: https://leetcode.com/u/youssefabeshir/
+This repository contains my solutions to LeetCode problems.
 
-## Languages Used
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
-- C++
-- Java
-- Python
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
+ Happy coding! 🚀
